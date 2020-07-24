@@ -34,7 +34,7 @@ Vue.use(VueRouter)
 
 const router = new VueRouter({
   mode: 'hash',
-  base: 'change-to-repository-name/',
+  base: 'vue-p5template',
   routes
 })
 
